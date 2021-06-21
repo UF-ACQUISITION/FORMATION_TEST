@@ -1,4 +1,4 @@
-document formation test
+Document formation test
 
 Joyeux Lundi. On s'amuse. 
 
